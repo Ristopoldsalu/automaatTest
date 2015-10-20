@@ -1,11 +1,8 @@
-package main.java.test.doorCardController;
+package main.test.doorCardController;
 import main.java.doorCardController.DoorCardController;
 import main.java.doorCard.DoorCard;
 import main.java.doorCard.DoorCardStrict;
 import org.junit.Test;
-
-import java.util.ArrayList;
-import java.util.Optional;
 
 import static org.junit.Assert.*;
 
